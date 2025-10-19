@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <meta charset= UTF-8/>
+    <title> The Groom Place</title>
+   <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <nav><ul><li><a href="#home">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#form">Appointment</a></li>
+        
+      </ul></nav>
+    
+    <section id="home">
+    <img src="img1.png" alt="logo"/>
+      <h1><i>Creating confident men</i></h1>
+      <p> The Groom Place is not your average barber shop. 
+       It is a place where men can regain their confidence <br>by making use of the different offerings that The Groom Place has to offer. <br>Our offers include hair trimming, coloring, as well as hair treatments. We also take pride in our beard shaping and skin treatments.</p>
+      
+  
+ 
+    </section>
+    
+    <section id="services">
+      <h2>Our Services</h2>
+      <table cellpadding="10">
+        <tr><th>Service</th><th>Price</th></tr>
+        <tr><td>Hair trimming</td>
+          <td>1.5 BHD</td></tr>
+          <tr><td>Hair coloring</td>
+          <td>20 BHD</td></tr>
+          <tr><td>Hair treatment</td>
+          <td>8 BHD</td></tr>
+          <tr><td>Beard trimming</td>
+          <td>0.5 BHD</td></tr>
+          <tr><td>Skin treatment</td>
+          <td>3 BHD</td></tr>
+        
+        
+      </table>
+    
+      
+       </section>
+    
+    <section id="form">
+      <h2>Book an appointment</h2>
+      <form>
+        <label>Your name <br><input type="text" required/></label>
+        <br><br>
+             <label>Your number <br><input type="text" required/></label>
+           <br><br>
+     <label>Service and time <br><input type="text" required/></label>
+                <br><br>
+        <label>Special notes <br><textarea rows="4" cols="22" required></textarea></label>
+                        <br><br>
+
+        <button type="submit" id="book"> <img src="img2.png" alt="book"/></button>
+        
+      </form>
+      
+      
+    </section>
+    
+    
+    <br><br>
+    
+    
+    <hr>
+    <footer>All rights reserved to The Groom Place</footer>
+    
+    <script src="script.js"><script/>
+    
+  </body>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
